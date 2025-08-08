@@ -1,6 +1,7 @@
 # Exercícios do Livro "Lógica de Programação e Algoritmos com JavaScript"
 
-[<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/b56a6674-65c5-45f6-b9d6-8d51401ac937" />
+[<<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/b748592f-d713-4db8-a071-5f5b009dfa47" />
+ />
 ] <!-- Substitua "link-da-imagem" pelo caminho ou URL real da capa -->
 
 ## Sobre o Livro
