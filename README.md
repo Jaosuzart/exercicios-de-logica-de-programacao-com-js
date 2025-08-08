@@ -1,6 +1,6 @@
 # Exercícios do Livro "Lógica de Programação e Algoritmos com JavaScript"
 
-![Capa do Livro](link-da-imagem) <!-- Substitua "link-da-imagem" pelo caminho ou URL real da capa -->
+![https://m.media-amazon.com/images/I/71X7hMhMEUL._SL1500_.jpg](link-da-imagem) <!-- Substitua "link-da-imagem" pelo caminho ou URL real da capa -->
 
 ## Sobre o Livro
 * **Título**: _Lógica de Programação e Algoritmos com JavaScript_  
